@@ -1,4 +1,4 @@
 ezClub
 ===========
 
-repo for ez Club website
+repo for the ez Club website.
