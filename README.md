@@ -1,4 +1,4 @@
-clubFit
+ezClub
 ===========
 
-repo for clubFit Public website
+repo for ez Club website
